@@ -1,4 +1,4 @@
- function basketball(first: number, second: number) {
+function basketball(first: number, second: number) {
     if (!first || !second) {
       return "Fix your input";
     }
@@ -6,3 +6,4 @@
   }
 
 export default basketball;
+
