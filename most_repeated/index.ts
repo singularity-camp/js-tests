@@ -16,6 +16,3 @@ function most_repeated(word) {
   }
   
   most_repeated("1882 - 16 March 1942");
-  
-  
-  
