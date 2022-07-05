@@ -20,4 +20,4 @@ describe("test divisible", () => {
       expect(res).toBe(expected);
     }
   );
-});
+
