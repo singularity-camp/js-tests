@@ -1,3 +1,4 @@
+
 import divisible from "./index";
 
 describe("test divisible", () => {
@@ -19,4 +20,4 @@ describe("test divisible", () => {
       expect(res).toBe(expected);
     }
   );
-});
+
